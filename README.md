@@ -3,6 +3,9 @@
 Welcome to Netflix, a simple web application resembling the Netflix profile selection page.
 
 ## Table of Contents
+![image](https://github.com/Shubham9528/Netflix-clone/assets/81708211/03759265-14ab-42b7-802b-66a3a21e5cd8)
+![image](https://github.com/Shubham9528/Netflix-clone/assets/81708211/d54e4557-ca98-4b75-a28a-370c11d95c20)
+
 
 - [Introduction](#introduction)
 - [Usage](#usage)
